@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm specific files
+.idea/
+
+# VS Code settings
+.vscode/
+
+# Log files
+logs/
+*.log
+
+# Model weights
+*.bin
+pytorch_model.bin
+
+# Hugging Face cache
+.cache/

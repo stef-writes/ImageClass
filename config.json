@@ -1,0 +1,7 @@
+{
+    "image_folder": "images/",
+    "output_folder": "output/",
+    "log_file": "logs/analysis_log.txt",
+    "image_files": ["piano.jpeg", "waterfall.jpeg", "statue.jpg"],
+    "text_prompts": ["a piano", "a waterfall", "a statue", "a dog", "a car"]
+}
