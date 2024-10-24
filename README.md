@@ -1,4 +1,4 @@
-Here’s a basic **README** file template for your project, which explains its purpose, how to set it up, and how to run the analysis. You can customize it further to meet your project’s needs.
+
 
 ### README.md
 
